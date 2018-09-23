@@ -1,6 +1,6 @@
 # TidyData_Assignment
   
-  ##Summary  
+  ## Summary  
   
   This is an exercise requiring the examination of the *Human Activity Recognition Using Smartphones Dataset
 Version 1.0* referenced in the README.txt file contained in this GitHub repository. The assignment requires me to create an .R script that:
